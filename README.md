@@ -1,6 +1,9 @@
 # Task Manager REST API
 
-![Task Manager Logo](https://github.com/sankytech12/Task-Manager-REST-API/blob/main/public/images/logo.png)
+<p align="center">
+  <img src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" alt="Task Manager Logo">
+</p>
+
 
 The Task Manager REST API is a powerful tool for managing tasks and to-do lists. This API allows you to create, read, update, and delete tasks, making it an essential component for any task management application. Whether you're building a personal task manager or integrating task management features into your application, this API has you covered.
 
